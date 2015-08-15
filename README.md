@@ -1,4 +1,4 @@
-# goimgext
+# gotextext
 Text Extension for Go
 
 # How to install
