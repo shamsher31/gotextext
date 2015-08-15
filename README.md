@@ -1,5 +1,5 @@
 # gotextext
-Text Extension for Go
+List of text file extensions for Go
 
 # How to install
 <pre>
