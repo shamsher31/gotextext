@@ -21,7 +21,7 @@ func main() {
 </pre>
 
 # Why
-This package is inspired by [sindresorhus](https://www.npmjs.com/package/text-extensions) npm module for text extension.
+This package is inspired by [text-extensions](https://www.npmjs.com/package/text-extensions) npm module for text extension.
 
 # License
 MIT © [Shamsher Ansari](https://github.com/shamsher31)
