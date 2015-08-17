@@ -1,13 +1,13 @@
 # gotextext
 List of text file extensions for Go
 
-# How to install
-<pre>
+### How to install
+```go
 go get github.com/shamsher31/gotextext
-</pre>
+```
 
-# How to use
-<pre>
+### How to use
+```go
 package main
 
 import (
@@ -18,10 +18,10 @@ import (
 func main() {
 	fmt.Println(textext.Get())
 }
-</pre>
+```
 
-# Why
-This package is inspired by [text-extensions](https://www.npmjs.com/package/text-extensions) npm module for text extension.
+### Why
+This package is inspired by [text-extensions](https://www.npmjs.com/package/text-extensions) npm module.
 
-# License
+### License
 MIT © [Shamsher Ansari](https://github.com/shamsher31)
