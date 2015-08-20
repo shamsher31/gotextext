@@ -1,4 +1,7 @@
 # gotextext
+
+[![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/shamsher31/gotextext)
+
 List of text file extensions for Go
 
 ### How to install
