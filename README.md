@@ -1,6 +1,7 @@
 # gotextext
 
 [![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/shamsher31/gotextext)
+[![Build Status](https://travis-ci.org/shamsher31/gotextext.svg?branch=master)](https://travis-ci.org/shamsher31/gotextext)
 
 List of text file extensions for Go
 
